@@ -19,4 +19,4 @@ function sayHiToGrandma(string) {
   var lowercase = "hello";
 }
 
-return "I can't hear you!" if var = "HELLO";
+if 
