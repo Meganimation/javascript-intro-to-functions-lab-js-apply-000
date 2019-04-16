@@ -10,4 +10,6 @@ function logShout(string) {
   console.log.restore();
 }
 
-function.sayHiToGrandma
+function sayHiToGrandma(string) {
+  return console.log
+}
