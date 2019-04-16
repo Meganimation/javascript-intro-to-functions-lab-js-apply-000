@@ -19,4 +19,4 @@ function sayHiToGrandma(string) {
   var lowercase = "hello";
 }
 
-if 
+if string
