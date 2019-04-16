@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
   
   if (uppercase.toUpperCase(string) === true 
   )
-  return string("I can't hear you");
+  return string("I can't hear you!");
   }
   
   
