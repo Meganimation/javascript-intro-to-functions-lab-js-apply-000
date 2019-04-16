@@ -15,7 +15,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string)
-string.toUpperCase(shout) ===
+  string.toUpperCase(shout) ===
 true
 
  
