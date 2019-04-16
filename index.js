@@ -7,9 +7,4 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  console.log.restore();
-}
-
-function sayHiToGrandma(string) {
-  return console.log
-}
+  console.log("HELLO!")
