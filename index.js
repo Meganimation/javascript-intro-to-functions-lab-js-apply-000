@@ -28,3 +28,7 @@ function sayHiToGrandma(string) {
   if ((string) === ("I love you, Grandma."))
   return ("I love you, too.")
   }
+  
+  //It's so damn simple once it actually clicks, but until then you feel like you're seven years old trying to figure out how to a put a broken egg back together again.
+  
+  // Then when you do finally figure it out you feel like Bill Gates himself. Best feeling.
